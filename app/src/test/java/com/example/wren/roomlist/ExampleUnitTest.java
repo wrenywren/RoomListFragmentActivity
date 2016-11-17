@@ -1,4 +1,4 @@
-package com.example.wren.chancemarley;
+package com.example.wren.roomlist;
 
 import org.junit.Test;
 

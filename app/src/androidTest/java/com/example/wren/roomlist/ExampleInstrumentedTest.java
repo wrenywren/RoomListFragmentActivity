@@ -1,4 +1,4 @@
-package com.example.wren.chancemarley;
+package com.example.wren.roomlist;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.wren.chancemarley", appContext.getPackageName());
+        assertEquals("com.example.wren.roomlist", appContext.getPackageName());
     }
 }
